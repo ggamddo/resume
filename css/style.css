@@ -1,0 +1,37 @@
+.my-border{border-bottom-style: solid;
+  border-width: 3px;
+border-color: white;}
+
+
+
+.my-bg1 { background-color: #C0AFE2;
+}
+.my-bg2 { background-color: #D9D6D2;
+}
+
+h2{font-family: 'Anuphan', sans-serif;
+  color : #0D0D0D
+}
+h3 {font-family: 'Anuphan', sans-serif;
+  color : #0D0D0D
+}
+
+h4{font-family: 'Anuphan', sans-serif;
+}
+
+h5{font-family: 'Anuphan', sans-serif;
+}
+
+p{font-family: 'Bai Jamjuree', sans-serif;
+}
+
+h6{font-family: 'Bai Jamjuree', sans-serif;
+}
+
+
+
+
+.my-border-bg{  border-style: solid;
+  border-color: #2D3540;
+  border-width: 10px;
+}
